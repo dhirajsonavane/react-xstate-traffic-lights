@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-xstate-traffic-lights/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-xstate-traffic-lights/static/js/main.ef879113.chunk.js",
+    "main.js.map": "/react-xstate-traffic-lights/static/js/main.ef879113.chunk.js.map",
+    "runtime-main.js": "/react-xstate-traffic-lights/static/js/runtime-main.f91d9f10.js",
+    "runtime-main.js.map": "/react-xstate-traffic-lights/static/js/runtime-main.f91d9f10.js.map",
+    "static/js/2.a0d0d1b6.chunk.js": "/react-xstate-traffic-lights/static/js/2.a0d0d1b6.chunk.js",
+    "static/js/2.a0d0d1b6.chunk.js.map": "/react-xstate-traffic-lights/static/js/2.a0d0d1b6.chunk.js.map",
+    "static/js/3.c893c192.chunk.js": "/react-xstate-traffic-lights/static/js/3.c893c192.chunk.js",
+    "static/js/3.c893c192.chunk.js.map": "/react-xstate-traffic-lights/static/js/3.c893c192.chunk.js.map",
+    "index.html": "/react-xstate-traffic-lights/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-xstate-traffic-lights/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a0d0d1b6.chunk.js.LICENSE.txt": "/react-xstate-traffic-lights/static/js/2.a0d0d1b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f91d9f10.js",
+    "static/js/2.a0d0d1b6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ef879113.chunk.js"
+  ]
+}
